@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="quanlymonan.QuanLyMonAn" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/quanlymonan/QuanLyMonAn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="235" x="216" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="quanlymonan.SuaThongTinMonAn" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/quanlymonan/SuaThongTinMonAn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="260" x="1795" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="quanlynhansu.XoaNhanSu" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/quanlynhansu/XoaNhanSu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="250" x="3746" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="cacnhantochung.DanhSachGoiMon" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/cacnhantochung/DanhSachGoiMon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="211" x="491" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="cacnhantochung.MonAnTrongGio" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/cacnhantochung/MonAnTrongGio.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="195" x="3409" y="1052"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="dangnhap.DangNhap" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/dangnhap/DangNhap.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="267" x="742" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="cacnhantochung.MonAn" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/cacnhantochung/MonAn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="145" x="3409" y="1317"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="dichvuchung.DichVuGoiMon" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/dichvuchung/DichVuGoiMon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="184" x="3204" y="594"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="nhahang.Main" project="QuanLyNhaHang" file="/QuanLyNhaHang/nhahang/Main.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="217" x="1049" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="dichvuchung.DichVuNhanSu" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/dichvuchung/DichVuNhanSu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="177" x="4181" y="594"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="quanlynhansu.QuanLyNhanSu" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/quanlynhansu/QuanLyNhanSu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="237" x="1306" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="cacnhantochung.NhanSu" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/cacnhantochung/NhanSu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="172" x="1583" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="quanlymonan.XoaMonAn" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/quanlymonan/XoaMonAn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="250" x="2095" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="cacnhantochung.GioHang" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/cacnhantochung/GioHang.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="288" x="3409" y="823"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="quanlygoimon.QuanLyGoiMon" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/quanlygoimon/QuanLyGoiMon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="639" width="297" x="3409" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="quanlynhansu.SuaThongTinNhanSu" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/quanlynhansu/SuaThongTinNhanSu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="250" x="4036" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="quanlynhansu.ThemNhanSu" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/quanlynhansu/ThemNhanSu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="250" x="4326" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="nhahang.MainMenu" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/nhahang/MainMenu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="203" x="2965" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="quanlymonan.ThemMonAn" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/quanlymonan/ThemMonAn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="250" x="2385" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="dichvuchung.DichVuMonAn" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/dichvuchung/DichVuMonAn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="198" x="2385" y="594"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="quanlynhansu.XemThongTinNhanSu" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/quanlynhansu/XemThongTinNhanSu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="250" x="4616" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="cacnhantochung.GoiMon" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/cacnhantochung/GoiMon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="161" x="3208" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="quanlymonan.XemThongTinMonAn" project="QuanLyNhaHang" 
+    file="/QuanLyNhaHang/quanlymonan/XemThongTinMonAn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="250" x="2675" y="-85"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="24">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="25" name="dichVuNhanSu"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="28" name="dichVuMonAn"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <bendpoint x="3418" y="594"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="31" name="gioHang"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="34" name="dichVuNhanSu"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="37" name="monAn"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="40" name="dichVuMonAn"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="43" name="dichVuGoiMon"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="46" name="gioHang"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="49" name="dichVuMonAn"/>      
+      <multiplicity id="50" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="52" name="dichVuNhanSu"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="55" name="dichVuNhanSu"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="58" name="nhungMonAnTrongGio"/>      
+      <multiplicity id="59" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="61" name="dichVuMonAn"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="64" name="dichVuMonAn"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
